@@ -1,0 +1,14 @@
+# Use: http://codex.wordpress.org/Function_Reference/register_taxonomy
+
+slug: "genre"
+type:
+  - post
+  - page
+label: "Genres"
+labels:
+  name: "Genres"
+  singular_name: "Genre"
+public: true
+hierarchical: true
+rewrite:
+  slug: "genre"
