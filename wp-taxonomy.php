@@ -29,7 +29,7 @@ class ftTaxonomy {
       return false;
     }
 
-    foreach (glob($this->config_path . "/**/*.yaml") as $filename) {
+    foreach (glob($this->config_path . "/*.yaml") as $filename) {
       $this->config[] = spyc_load_file($filename);
     }
   }
