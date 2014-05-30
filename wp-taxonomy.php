@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: wp-taxonomy
+ * Plugin Name: First+Third Taxonomy
  * Description: Wordpress Custom Taxonomies
  */
 

@@ -1,4 +1,4 @@
-wp-taxonomy
+First+Third Taxonomy
 ===========
 
 Wordpress Plugin for custom taxonomies
